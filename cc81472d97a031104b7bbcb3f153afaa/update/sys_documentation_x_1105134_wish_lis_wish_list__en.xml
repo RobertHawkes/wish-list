@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Wish List" language="en" table="x_1105134_wish_lis_wish_list">
+    <sys_documentation element="" label="Wish Item" language="en" table="x_1105134_wish_lis_wish_list">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Wish List</label>
+            <label>Wish Item</label>
             <language>en</language>
             <name>x_1105134_wish_lis_wish_list</name>
-            <plural>Wish Lists</plural>
+            <plural>Wish Items</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-08-09 10:46:37</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Wish List</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Wish Item</sys_name>
             <sys_package display_value="Wish List" source="x_1105134_wish_lis">cc81472d97a031104b7bbcb3f153afaa</sys_package>
             <sys_policy/>
             <sys_scope display_value="Wish List">cc81472d97a031104b7bbcb3f153afaa</sys_scope>
             <sys_update_name>sys_documentation_x_1105134_wish_lis_wish_list__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-09 10:46:37</sys_updated_on>
+            <sys_updated_on>2023-08-09 11:17:20</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
